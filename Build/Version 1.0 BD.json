@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Juego Reciclaje",
+"productVersion": "0.4",
+"dataUrl": "Version 1.0 BD.data.unityweb",
+"wasmCodeUrl": "Version 1.0 BD.wasm.code.unityweb",
+"wasmFrameworkUrl": "Version 1.0 BD.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#287000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.2f1"
+}
